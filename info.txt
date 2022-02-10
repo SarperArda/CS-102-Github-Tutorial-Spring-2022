@@ -2,3 +2,118 @@ Sarper Arda BAKIR - 21902781 - https://github.com/SarperArda/CS-102-Github-Tutor
 
 Batman Arkham City (Favorite Video Game)
 
+commit 01ad9a534d032415a2d8ee9126e522990caac65e (HEAD -> main, origin/main, origin/HEAD)
+Merge: f75dacd f93fffa
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 10:03:16 2022 +0300
+
+    Merge pull request #1 from SarperArda/new_information
+    
+    New information
+
+commit f93fffad3528bdce2d3fcff3c11dc7b782b087a3 (origin/new_information, new_information)
+Merge: cbe868d f75dacd
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 10:03:05 2022 +0300
+
+    Merge branch 'main' into new_information
+
+commit cbe868d5a074031a23afd30e6ded42c2a50ac1a9
+Author: Sarper Arda Bakır <arda.bakir@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:02:12 2022 +0300
+
+    Inserting Video Game
+
+commit 725fc32324b499d307e4efa1966c250b4c96bbca
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:28:00 2022 +0300
+
+    Inserting Video Game
+
+commit f75dacd673146099192a1e032052fe72cfb372bb
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:28:00 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit a4aa9dd05f988ae1ab17637c2bd31d3db2c2a613
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:26:03 2022 +0300
+:...skipping...
+commit 01ad9a534d032415a2d8ee9126e522990caac65e (HEAD -> main, origin/main, origin/HEAD)
+Merge: f75dacd f93fffa
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 10:03:16 2022 +0300
+
+    Merge pull request #1 from SarperArda/new_information
+    
+    New information
+
+commit f93fffad3528bdce2d3fcff3c11dc7b782b087a3 (origin/new_information, new_information)
+Merge: cbe868d f75dacd
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 10:03:05 2022 +0300
+
+    Merge branch 'main' into new_information
+
+commit cbe868d5a074031a23afd30e6ded42c2a50ac1a9
+Author: Sarper Arda Bakır <arda.bakir@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 10:02:12 2022 +0300
+
+    Inserting Video Game
+
+commit 725fc32324b499d307e4efa1966c250b4c96bbca
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:28:00 2022 +0300
+
+    Inserting Video Game
+
+commit f75dacd673146099192a1e032052fe72cfb372bb
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:28:00 2022 +0300
+
+    Name_of_the_student updated info.txt
+
+commit a4aa9dd05f988ae1ab17637c2bd31d3db2c2a613
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:26:03 2022 +0300
+
+    rename txt
+
+commit 773358f008f79713bd49b9e02a27c0446f83a806
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:25:43 2022 +0300
+
+    Adding info
+
+commit 754dae3943e137b0951b8dc477be6a909daf9397
+Author: SarperArda <91608321+SarperArda@users.noreply.github.com>
+Date:   Thu Feb 10 09:23:06 2022 +0300
+
+    Initial commit
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
